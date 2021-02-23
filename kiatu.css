@@ -1,0 +1,33 @@
+#productImage{
+    width:250px;
+    
+}
+#productDiv{
+    width: 250px;
+    border: 1px solid gray;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#productDiv:hover{
+    box-shadow: gray 5px 5px 5px;
+}
+#productImage2{
+    width:250px;
+    
+}
+#productDiv2{
+    width: 250px;
+    border: 1px solid gray;
+    padding: 10px;
+    cursor: pointer;
+    margin:20px;
+}
+
+#productDiv2:hover{
+    box-shadow: gray 5px 5px 5px;
+}
+
+section{
+    display: flex;
+}
